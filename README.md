@@ -1,35 +1,42 @@
 # Classifying Causes of Depression using ML and NLP 🧠💬
 
-This repository supports my Master's thesis project focused on **identifying specific causes of depression** (like domestic violence, stress, and gender inequality) using **Machine Learning (ML)** and **Natural Language Processing (NLP)** techniques applied to social media data.
+This repository presents the research work conducted as part of my Master's thesis, focused on **classifying the causes of depression**—such as **domestic violence, stress, and gender inequality**—from social media tweets using **Machine Learning (ML)** and **Natural Language Processing (NLP)** techniques.
 
-## 📚 Project Overview
+## 📚 Project Summary
 
-- The goal is to **classify causes of depression** from real-world tweets using supervised machine learning.
-- I have applied **text preprocessing, lemmatization, TF-IDF, Word Embeddings**, and **ML models like SVM and XGBoost** for classification.
-- This work aims to support **mental health professionals** by identifying key depression-related patterns and causes through social data.
+The study involves:
+- Extracting lexicons and patterns using **TF-IDF** and rule-based methods
+- Training and evaluating **classification models** such as **XGBoost** and **SVM**
+- Applying **SMOTE** to address class imbalance
+- Visualizing results to understand depression triggers
 
-## 🧪 Repository Structure
+This research aims to contribute toward early detection and categorization of depression causes through language analysis.
+
+## 🧪 Repository Contents
+
+- `Step1_Lexicon_TFIDF_Extraction.ipynb`  
+  ➤ Initial processing, TF-IDF analysis, lexicon extraction, and experimental setup
 
 - `Classification_Model.ipynb`  
-  👉 Contains preprocessing, modeling, classification, evaluation, and visual results with summaries.
+  ➤ Model training, evaluation, and descriptive classification summary
 
-- `Merged_Dataset_and_Summary.ipynb`  
-  👉 Shows merged annotated datasets and high-level findings.
+- `Result.ipynb`  
+  ➤ Final visualization and merged dataset analysis
 
-## 📎 Proposal
+- `SMOTE.ipynb`  
+  ➤ SMOTE oversampling analysis to balance the dataset
 
-The original **thesis proposal** is attached in this repository.  
-⚠️ **Note:** The final research paper is currently under review and will be published soon.
+- `Thesis_Proposal.pdf`  
+  ➤ Attached PDF of the proposal (The full research paper is currently under review)
 
-## 📩 Get in Touch
+## 📩 Contact
 
 For access to:
-- Merged annotated dataset  
-- Full classification summaries
+- **Merged annotated dataset**
+- **Full classification summaries**
 
-📬 **Feel free to DM or email me at** `ayushithakur2098@gmail.com`
+📬 Feel free to **DM** me or **email** at `ayushithakur2098@gmail.com`
 
 ---
 
-📌 This project is shared for learning and collaboration, especially helpful for early-stage researchers and students working on **mental health NLP projects**.
-
+🧑‍💻 This repository is shared with a learning perspective and is especially helpful for **new researchers, data scientists, and students** interested in **mental health analysis using NLP and ML**.
