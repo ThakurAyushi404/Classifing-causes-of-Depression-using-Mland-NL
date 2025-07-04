@@ -1,0 +1,5 @@
+Topic 0: 0.076*"raped" + 0.012*"said" + 0.011*"told" + 0.010*"rape" + 0.009*"would" + 0.009*"one" + 0.008*"amp" + 0.008*"know" + 0.007*"never" + 0.007*"man"
+Topic 1: 0.013*"got" + 0.012*"like" + 0.012*"na" + 0.008*"back" + 0.007*"gon" + 0.006*"said" + 0.006*"night" + 0.006*"ass" + 0.005*"get" + 0.005*"one"
+Topic 2: 0.033*"trump" + 0.021*"public" + 0.011*"biden" + 0.009*"racist" + 0.008*"humiliated" + 0.006*"insulted" + 0.005*"joe" + 0.005*"lies" + 0.004*"deserved" + 0.004*"future"
+Topic 3: 0.041*"husband" + 0.038*"beats" + 0.025*"raped" + 0.016*"like" + 0.012*"wife" + 0.011*"court" + 0.010*"woman" + 0.010*"people" + 0.009*"get" + 0.009*"u"
+Topic 4: 0.020*"women" + 0.014*"amp" + 0.013*"forced" + 0.011*"child" + 0.010*"marriage" + 0.009*"female" + 0.008*"girls" + 0.006*"sex" + 0.005*"male" + 0.005*"etc"

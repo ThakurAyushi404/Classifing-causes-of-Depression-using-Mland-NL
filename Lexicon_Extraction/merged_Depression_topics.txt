@@ -1,0 +1,5 @@
+Topic 0: 0.049*"depression" + 0.043*"disorder" + 0.022*"hypersomnia" + 0.020*"bipolar" + 0.017*"im" + 0.016*"anxiety" + 0.012*"sleep" + 0.010*"diagnosed" + 0.010*"postpartum" + 0.008*"psychotic"
+Topic 1: 0.013*"moments" + 0.013*"crying" + 0.011*"insomnia" + 0.006*"fighting" + 0.005*"httpurl" + 0.005*"snap" + 0.005*"playing" + 0.005*"simple" + 0.005*"manic" + 0.005*"guilty"
+Topic 2: 0.112*"like" + 0.043*"feel" + 0.021*"ca" + 0.020*"living" + 0.020*"hard" + 0.018*"feels" + 0.016*"find" + 0.016*"world" + 0.015*"way" + 0.013*"feeling"
+Topic 3: 0.027*"user" + 0.015*"people" + 0.008*"would" + 0.008*"know" + 0.007*"get" + 0.006*"one" + 0.005*"want" + 0.005*"really" + 0.005*"think" + 0.005*"someone"
+Topic 4: 0.007*"back" + 0.007*"waiting" + 0.007*"httpurl" + 0.007*"day" + 0.006*"time" + 0.006*"one" + 0.005*"today" + 0.005*"love" + 0.005*"last" + 0.005*"amp"

@@ -1,0 +1,5 @@
+Topic 0: 0.027*"metoo" + 0.016*"https" + 0.011*"movement" + 0.008*"man" + 0.008*"men" + 0.008*"woman" + 0.008*"mentoo" + 0.008*"son" + 0.008*"abuse" + 0.008*"slave"
+Topic 1: 0.023*"https" + 0.023*"amp" + 0.015*"women" + 0.012*"humanrights" + 0.012*"womensrights" + 0.012*"metoo" + 0.009*"gender" + 0.009*"discrimination" + 0.009*"fbi" + 0.009*"delhipolice"
+Topic 2: 0.022*"metoo" + 0.014*"pay" + 0.014*"film" + 0.014*"allegations" + 0.009*"grade" + 0.009*"bcci" + 0.009*"sexualassault" + 0.009*"sexual" + 0.009*"assault" + 0.009*"sports"
+Topic 3: 0.040*"https" + 0.037*"metoo" + 0.026*"france" + 0.024*"trial" + 0.022*"depardieu" + 0.016*"sexual" + 0.012*"assault" + 0.012*"gerard" + 0.010*"actor" + 0.010*"women"
+Topic 4: 0.028*"metoo" + 0.021*"women" + 0.014*"https" + 0.011*"men" + 0.011*"australian" + 0.008*"statehouse" + 0.008*"movement" + 0.008*"ever" + 0.008*"feel" + 0.008*"hold"
